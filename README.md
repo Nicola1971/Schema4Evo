@@ -5,7 +5,7 @@ Schema.org Creator MultiTvs
 
 MultiTvs to create HTML with schema.org microdata 
 
-### Supporteted schemas:
+### Supported schemas:
 
 * Person
 * Product
@@ -33,3 +33,23 @@ MultiTvs to create HTML with schema.org microdata
 
 ## Chunks:
 * **Schema4Evo mm rules** (examples code for ManagerManager plugin Schemas Tab)
+
+# Install
+* Install with Package Manager
+* Assign the desired MultiTv to your Template
+* add ``[[multiTV? &tvName=`NameOfSchemaMultiTv` &display=`all`]]``
+
+##### Example
+``[[multiTV? &tvName=`schemaevent` &display=`all`]]``
+
+## Create a dedicated ManagerManager Tab
+* Copy the desired salmple code from **Schema4Evo mm rules** in your template
+
+##### Example
+
+``````
+//Schema Event tab
+mm_createTab('Schema.org Event','Event', '', $news_tpl, '', '600');
+mm_moveFieldsToTab('schemaevent', 'Event', '', $news_tpl);
+
+``````
