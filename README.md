@@ -40,7 +40,7 @@ MultiTvs to create HTML with schema.org microdata
 # Install
 * Install with Package Manager
 * Assign the desired MultiTv to your Template
-* add ``[[multiTV? &tvName=`NameOfSchemaMultiTv` &display=`all`]]``
+* add ``[[multiTV? &tvName=`NameOfSchemaMultiTv` &display=`all`]]`` inside your content or template
 
 ##### Example
 ``[[multiTV? &tvName=`schemaevent` &display=`all`]]``
