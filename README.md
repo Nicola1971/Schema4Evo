@@ -19,6 +19,9 @@ MultiTvs to create HTML with schema.org microdata
 
 ![schema events](https://raw.githubusercontent.com/Nicola1971/Schema4Evo/master/schemaevent.jpg)
 
+##### Schema Person Multitv:
+
+![schema person](https://raw.githubusercontent.com/Nicola1971/Schema4Evo/master/schemaperson.jpg)
 # This Package includes   
 
 ## Tvs (MultiTvs)
