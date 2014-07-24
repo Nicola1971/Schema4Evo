@@ -3,7 +3,7 @@ Schema4Evo
 
 Schema.org Creator MultiTvs
 
-MultiTvs to output schema.org microdata 
+MultiTvs to create schema.org microdata 
 
 ### Supported schemas:
 
