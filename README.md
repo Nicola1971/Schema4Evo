@@ -46,7 +46,7 @@ MultiTvs to create schema.org microdata
 ``[[multiTV? &tvName=`schemaevent` &display=`all`]]``
 
 ## Create a dedicated ManagerManager Tab
-* Copy the desired salmple code from **Schema4Evo mm rules** in your template
+* Copy the desired sample code from **Schema4Evo mm rules** in your template
 
 ##### Example
 
