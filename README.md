@@ -60,3 +60,10 @@ mm_createTab('Schema.org Event','Event', '', $news_tpl, '', '600');
 mm_moveFieldsToTab('schemaevent', 'Event', '', $news_tpl);
 
 ``````
+
+# To Do:
+
+- add image tv in multitvs for schema.org/image
+- widget for rating
+- class for styling output
+- plugin to apply schema.org tags in modx template
