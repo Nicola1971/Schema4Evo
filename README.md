@@ -22,6 +22,10 @@ MultiTvs to fast create schema.org microdata
 ##### Schema Person Multitv:
 
 ![schema person](https://raw.githubusercontent.com/Nicola1971/Schema4Evo/master/schemaperson.jpg)
+
+##### Schema Book Multitv:
+
+![schema book](https://raw.githubusercontent.com/Nicola1971/Schema4Evo/master/schemabook.jpg)
 # This Package includes   
 
 ## Tvs (MultiTvs)
