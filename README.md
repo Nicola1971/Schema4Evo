@@ -1,4 +1,4 @@
-Schema4Evo
+Schema4Evo RC 1
 ==========
 
 Schema.org Creator MultiTvs
